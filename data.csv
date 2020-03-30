@@ -1,0 +1,38 @@
+﻿Date;Day;Italy
+24 February 2020;55;229
+25 February 2020;56;322
+26 February 2020;57;400
+27 February 2020;58;650
+28 February 2020;59;888
+29 February 2020;60;1128
+01 March 2020;61;1694
+02 March 2020;62;2036
+03 March 2020;63;2502
+04 March 2020;64;3089
+05 March 2020;65;3858
+06 March 2020;66;4636
+07 March 2020;67;5883
+08 March 2020;68;7375
+09 March 2020;69;9172
+10 March 2020;70;10149
+11 March 2020;71;12462
+12 March 2020;72;15113
+13 March 2020;73;17660
+14 March 2020;74;21157
+15 March 2020;75;24747
+16 March 2020;76;27980
+17 March 2020;77;31506
+18 March 2020;78;35713
+19 March 2020;79;41035
+20 March 2020;80;47021
+21 March 2020;81;53578
+22 March 2020;82;59138
+23 March 2020;83;63927
+24 March 2020;84;69176
+25 March 2020;85;74386
+26 March 2020;
+27 March 2020;
+28 March 2020;
+;
+Sources;
+Italy;https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-andamento-nazionale/dpc-covid19-ita-andamento-nazionale.csv
